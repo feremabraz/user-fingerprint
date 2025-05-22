@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Kickstart Basic',
-  description: 'Template for kickstarting toy projects and ideas.',
+  title: 'User Fingerprint',
+  description: 'Review of fingerprinting users.',
 };
 
 export default function RootLayout({
